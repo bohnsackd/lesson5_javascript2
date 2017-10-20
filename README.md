@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+10/20/2017
 
 ### Student Name:  
-(First and Last Name)
+David Bohnsack
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment gives examples of if/else statements in order to determine what tax system to use. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://bohnsackd.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learn how to use if/else statments these are very useful.
 2. (Briefly describe a lesson/concept learned in this lesson.)
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
